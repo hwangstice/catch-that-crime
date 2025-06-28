@@ -11,7 +11,7 @@ See [Catch_That_Crime_Document.pdf](./Catch_That_Crime_Document.pdf) for more in
 ## Installation
 1. Clone the repo
    ```sh
-   git clone https://github.com/d7rub1k/catch-that-crime.git
+   git clone https://github.com/hwangstice/catch-that-crime.git
    ```
 2. Extract test case
    ```sh
